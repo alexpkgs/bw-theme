@@ -1,4 +1,3 @@
-{configs, colorscheme, ...}
 {
 colors = {
 background = "#000000"; # or it can be #1c1c1c
